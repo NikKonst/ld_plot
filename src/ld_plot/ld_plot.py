@@ -11,7 +11,6 @@ def ld_plot(ld, labels: list[str]):
 
     :param ld: A symmetric LD matrix
     :param labels: A list of position names
-    :param figure: Matplotlib figure
     """
     n = ld.shape[0]
 
