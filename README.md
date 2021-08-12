@@ -1,6 +1,6 @@
 # LD plot
 
-Plot of a Linkage Disequilibrium (LD) matrix
+Plot of a Linkage Disequilibrium (LD) matrix in Python
 
 ## Installation
 
