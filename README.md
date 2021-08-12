@@ -11,7 +11,7 @@ Plot of a Linkage Disequilibrium (LD) matrix in Python
 ## Usage
 
 ```python
-from src.ld_plot.ld_plot import ld_plot
+from ld_plot.ld_plot import ld_plot
 
 # LD: A symmetric LD matrix
 # labels: A list of position names
